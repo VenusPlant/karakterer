@@ -1,0 +1,35 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_SpriteKind" id="D}#98JoFTKOGU~Ve4b9q">Player</variable><variable type="KIND_SpriteKind" id="hv}H~#ze3p5aacL_AeKz">Projectile</variable><variable type="KIND_SpriteKind" id="eo!~Z^]S.c[p)kuC(5,b">Food</variable><variable type="KIND_SpriteKind" id="fb[P,i{0k4nYe=)#pW8H">Enemy</variable><variable id="EsN=#qSGag4HI(*{nPC#">person</variable><variable id="nl?wr#4H:!9oa|${fyFT">mySprite</variable></variables><block type="pxt-on-start" id="#]jM-TV9QZ7u5Rx?HL@:" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="A@4(5^1ChByi@0pd_dB`"><field name="VAR" id="EsN=#qSGag4HI(*{nPC#">person</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="8R|/AEvi@TH*o]H!qD.8"><value name="img"><shadow type="screen_image_picker" id="a9m_K2/=pc;2L+IP[tG2"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field></shadow></value><value name="kind"><shadow type="spritekind" id="mN]@@lQD_bsP4pu5b;#c"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="variables_set" id="IiHpr5!35~9{tx4rGkU!"><field name="VAR" id="nl?wr#4H:!9oa|${fyFT">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="EoudxnLPgT0{](!rYpaf"><value name="img"><shadow type="screen_image_picker" id="zN5jdRetN[%Fq[82eMgT"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field></shadow></value><value name="kind"><shadow type="spritekind" id="RH);^#Q}|mWV1}!TGm.a"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block></xml>
